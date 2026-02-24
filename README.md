@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE (Data Science) student at **Pranveer Singh Institute of Technology**
+- 🎓 B.Tech CSE (Artificial Intelligence & Machine Learning) student at **Pranveer Singh Institute of Technology**
 - 💡 Passionate about programming, real-world problem solving & scalable systems
 - 🚀 Interested in **Backend, Flutter Apps, AI/ML, and Web Development**
 - 🧠 Solved **400+ coding problems**
