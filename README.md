@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niraj Mahto</h1>
-<h3 align="center">Computer Science (Data Science) Student | Developer | Problem Solver</h3>
+<h3 align="center">Computer Science (Artificial Intelligence & Machine Learning) Student | Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:itsnirajmahto@gmail.com">Email</a> •
