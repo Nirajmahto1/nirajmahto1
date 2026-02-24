@@ -35,16 +35,11 @@
 ## 🧠 Tech Arsenal
 
 ### 👨‍💻 Languages
-`C++` `Python` `JavaScript` `Dart` `PHP`
+`C++` `Python` `JavaScript` `Dart` `GO` `PHP`
 
 ### 🌐 Web & App
 `React` `Flutter` `Node.js` `Laravel`  
 `HTML` `CSS` `Tailwind` `Bootstrap`
-
-### 🤖 AI / ML
-`Machine Learning Models`  
-`Logistic Regression`  
-`Prediction Systems`
 
 ### 🗄 Databases
 `MongoDB` `SQL` `SQLite`
