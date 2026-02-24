@@ -21,7 +21,7 @@
 
 ## 🧑‍🚀 About Me
 
-🎓 B.Tech – **Artificial Intelligence & Machine Learning**  
+🎓 B.Tech – **CS( Artificial Intelligence & Machine Learning )**  
 🏫 Pranveer Singh Institute of Technology  
 
 - 💡 Passionate about AI systems, backend architecture & scalable apps  
