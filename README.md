@@ -13,12 +13,6 @@
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 🧑‍💻 `whoami`
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
 </div>
