@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCE54,75:26de81,100:45AAF2&height=200&section=header&text=Niraj%20Mahto&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%E2%9D%A4%EF%B8%8F%20Craft%20%7C%20Build%20%F0%9F%94%A5%20Ship%20%F0%9F%9A%80%20Repeat&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFCE54,75:26de81,100:45AAF2&height=200&section=header&text=Niraj%20Mahto&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20%E2%9D%A4%EF%B8%8F%20Craft%20%7C%20Build%20%F0%9F%94%A5%20Ship%20%F0%9F%9A%80%20Repeat&descAlignY=58&descSize=17" width="100%"/>
 
 <br/>
 
@@ -13,32 +13,31 @@
 </div>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
-</div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
 <div align="center">
+
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ███╗   ██╗██╗██████╗  █████╗      ██╗                    ║
-║    ████╗  ██║██║██╔══██╗██╔══██╗     ██║                    ║
-║    ██╔██╗ ██║██║██████╔╝███████║     ██║                    ║
-║    ██║╚██╗██║██║██╔══██╗██╔══██║██   ██║                    ║
-║    ██║ ╚████║██║██║  ██║██║  ██║╚█████╔╝                    ║
-║    ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝                    ║
-║                                                              ║
-║         Full Stack Dev  •  Builder  •  Problem Solver        ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ███╗   ██╗██╗██████╗  █████╗      ██╗                        ║
+║    ████╗  ██║██║██╔══██╗██╔══██╗     ██║                        ║
+║    ██╔██╗ ██║██║██████╔╝███████║     ██║                        ║
+║    ██║╚██╗██║██║██╔══██╗██╔══██║██   ██║                        ║
+║    ██║ ╚████║██║██║  ██║██║  ██║╚█████╔╝                        ║
+║    ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝                        ║
+║                                                                  ║
+║         Full Stack Dev  •  Builder  •  Problem Solver            ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
+
 ```python
 # 🚀 boot_sequence.py
 
@@ -53,11 +52,11 @@ class Developer:
     @property
     def stack(self):
         return {
-          "⚛️  React"   : "████████████ 90%",
-          "🐍 Python"   : "█████████░░░ 75%",
-          "🦫 Go"       : "███████░░░░░ 58%",
-          "🦀 Rust"     : "█████░░░░░░░ 40%",
-          "⚡ Node.js"  : "██████████░░ 82%",
+          "⚛️  React"  : "████████████ 90%",
+          "🐍 Python"  : "█████████░░░ 75%",
+          "🦫 Go"      : "███████░░░░░ 58%",
+          "🦀 Rust"    : "█████░░░░░░░ 40%",
+          "⚡ Node.js" : "██████████░░ 82%",
         }
 
     def current_status(self):
@@ -75,7 +74,7 @@ class Developer:
           "Go for when speed matters 🏎️",
           "I have more tabs than RAM 💀",
         ]
-        return random.choice(facts)  # always surprising!
+        return random.choice(facts)
 
 me = Developer()
 print(me.fun_fact())
@@ -83,9 +82,9 @@ print(me.fun_fact())
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="45%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 <br/><br/>
 
@@ -98,18 +97,17 @@ print(me.fun_fact())
 <img src="https://img.shields.io/badge/Open%20To-Collabs%20%F0%9F%A4%9D-45AAF2?style=flat-square&labelColor=1a1a2e"/>
 
 <br/><br/>
+
 ```
-🌍  India
-⏰  IST (UTC +5:30)
+🌍  India (UTC +5:30)
 💼  Available for hire
 🎯  Shipping daily
+⭐  Open source lover
 ```
 
 </td>
 </tr>
 </table>
-
-<br clear="right"/>
 
 ---
 
@@ -123,6 +121,7 @@ print(me.fun_fact())
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **⚙️ Backend**
@@ -132,6 +131,7 @@ print(me.fun_fact())
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 **🔩 Systems**
 
@@ -143,25 +143,27 @@ print(me.fun_fact())
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats — The Scoreboard
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nirajmahto1&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nirajmahto1&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFCE54&text_color=ffffff"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajmahto1&layout=compact&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirajmahto1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff"/>
 
 <br/>
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=Nirajmahto1&theme=radical&hide_border=true"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=Nirajmahto1&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFCE54&currStreakLabel=FF8E53&sideLabels=FF6B6B"/>
 
 <br/>
 
@@ -175,7 +177,7 @@ print(me.fun_fact())
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nirajmahto1&theme=radical&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nirajmahto1&theme=radical&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -193,7 +195,7 @@ print(me.fun_fact())
 
 <br/>
 
-| Language | Comfort | Vibe |
+| Language | Proficiency | Vibe |
 |:---|:---|:---|
 | 🔴 JavaScript | `████████████░░` 80% | *"The bread & butter"* |
 | 🟢 Python | `██████████░░░░` 65% | *"Snake charmer mode"* |
