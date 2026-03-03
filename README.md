@@ -17,27 +17,103 @@
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 🧑‍💻 `whoami`
-```python
-class Niraj:
-    name       = "Niraj Mahto"
-    username   = "Nirajmahto1"
-    role       = "Full Stack Developer 🚀"
-    location   = "India 🇮🇳"
+---
 
-    stack = {
-        "frontend" : ["React ⚛️", "JavaScript", "TypeScript"],
-        "backend"  : ["Node.js", "Django 🐍", "Flask", "Go 🦫"],
-        "systems"  : ["Rust 🦀", "C++"],
-        "database" : ["MongoDB", "PostgreSQL", "MySQL"],
-    }
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
+</div>
 
-    currently = "Building cool stuff & shipping fast 🔥"
-    learning  = "System Design + Cloud Architecture ☁️"
-    fun_fact  = "I write Rust for fun and Python for sanity 😂"
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-    def greet(self):
-        return "Let's build something awesome! 🌈"
+<div align="center">
 ```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║    ███╗   ██╗██╗██████╗  █████╗      ██╗                    ║
+║    ████╗  ██║██║██╔══██╗██╔══██╗     ██║                    ║
+║    ██╔██╗ ██║██║██████╔╝███████║     ██║                    ║
+║    ██║╚██╗██║██║██╔══██╗██╔══██║██   ██║                    ║
+║    ██║ ╚████║██║██║  ██║██║  ██║╚█████╔╝                    ║
+║    ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝                    ║
+║                                                              ║
+║         Full Stack Dev  •  Builder  •  Problem Solver        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+```python
+# 🚀 boot_sequence.py
+
+class Developer:
+    def __init__(self):
+        self.name      = "Niraj Mahto"
+        self.role      = "Full Stack Developer"
+        self.location  = "India 🇮🇳"
+        self.os        = "Linux btw 🐧"
+        self.editor    = "VS Code 💙"
+
+    @property
+    def stack(self):
+        return {
+          "⚛️  React"   : "████████████ 90%",
+          "🐍 Python"   : "█████████░░░ 75%",
+          "🦫 Go"       : "███████░░░░░ 58%",
+          "🦀 Rust"     : "█████░░░░░░░ 40%",
+          "⚡ Node.js"  : "██████████░░ 82%",
+        }
+
+    def current_status(self):
+        return {
+          "🔥 building" : "Full stack side projects",
+          "📖 learning" : "System Design & Cloud",
+          "🤝 open_to"  : "Collabs & Open Source",
+          "☕ powered_by": "Coffee & curiosity",
+        }
+
+    def fun_fact(self):
+        facts = [
+          "I write Rust on weekends 😅",
+          "Python for sanity 🐍",
+          "Go for when speed matters 🏎️",
+          "I have more tabs than RAM 💀",
+        ]
+        return random.choice(facts)  # always surprising!
+
+me = Developer()
+print(me.fun_fact())
+# >> "I have more tabs than RAM 💀"
+```
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A5-FF6B6B?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Mood-Caffeinated%20%E2%98%95-FFCE54?style=flat-square&labelColor=1a1a2e"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-26de81?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Open%20To-Collabs%20%F0%9F%A4%9D-45AAF2?style=flat-square&labelColor=1a1a2e"/>
+
+<br/><br/>
+```
+🌍  India
+⏰  IST (UTC +5:30)
+💼  Available for hire
+🎯  Shipping daily
+```
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
